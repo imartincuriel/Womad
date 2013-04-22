@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<music>
+  <artista>
+    <id>1</id>
+    <nombre>Silvia Comes</nombre>
+    <descripcion>Nos visita presentando su nuevo proyecto, "Fuertes", un espectáculo homenaje a la escritora Gloria Fuertes.</descripcion>
+    <descripcionLarga>El currículum artístico de Silvia Comes es, como mínimo, brillante. Inicia su trayectoria acompañando al laureado cantautor catalán Lluis Llach en las giras "Un núvol blanc" y "Un pont de mar blava" como voz solista. Como compositora e intérprete ha grabado dos discos maravillosos junto a la cantante y actriz Lídia Pujol. Además, Silvia ha trabajado como compositora y cantante en el mundo del teatro y en colaboraciones de diversa índole artística. Actualmente se encuentra presentando su nuevo proyecto, "Fuertes", un espectáculo homenaje a la escritora Gloria Fuertes.</descripcionLarga>
+    <horario>Jueves 9 de Mayo 21:00 h. Gran Teatro de Cáceres. Entradas: 3€.</horario>
+    <pais>España</pais>
+    <imagen>silvia_comes</imagen>
+  </artista>
+  <artista>
+    <id>2</id>
+    <nombre>The Soaked Lamb</nombre>
+    <descripcion>Grupo portugues formado en 2006, con fuertes influencias de blues y jazz, y algo de ragtime, boogie-woogie, swing y gospel</descripcion>
+    <descripcionLarga>Son un grupo portugues formado en 2006, con fuertes influencias de blues y jazz, y algo de ragtime, boogie-woogie, swing y gospel. Han lanzado un nuevo disco de versiones titulado Evergreens, que cuenta con 12 temas originales de Hank Williams, Georgie White y Merle Travis, entre otros. Este disco cuenta también con tres nuevas versiones de canciones de los propios The Soaked Lamb y un inédito.</descripcionLarga>
+    <horario>Jueves 9 de Mayo 22:00 h. Gran Teatro de Cáceres. Entradas: 3€.</horario>
+    <pais>Portugal</pais>
+    <imagen>the_soaked_lamb</imagen>
+  </artista>
+  <artista>
+    <id>3</id>
+    <nombre>Find Emma</nombre>
+    <descripcion>Este grupo nace del encuentro de cuatro músicos de larga trayectoria artística y tras el paso por diversas formaciones en el campo del pop, rock, jazz, folk irlandés o tango.</descripcion>
+    <descripcionLarga>Este grupo nace del encuentro de cuatro músicos de larga trayectoria artística y tras el paso por diversas formaciones en el campo del pop, rock, jazz, folk irlandés o tango. Desde el inicio de la formación, han llevado su música por gran parte de la península y también han actuado en escenarios internacionales. Su repertorio abarca gran variedad de estilos y trata de fusionar los diferentes tipos de folk, y country, recuperando canciones antiguas tradicionales y modernizándolas con su estilo tan particular.</descripcionLarga>
+    <horario>Viernes 10 de Mayo 18:45 h. Escenario Plaza Mayor. Entradas: libre.</horario>
+    <pais>España(Extremadura)</pais>
+    <imagen>find_emma</imagen>
+  </artista>
+  <artista>
+    <id>4</id>
+    <nombre>Los Alienigenas</nombre>
+    <descripcion>Llegamos en varias tandas superando la atmosfera y golpeandonos fuertemente cual incandescentes meteoritos contra el suelo extremeño a la altura de Llerena (Badajoz)</descripcion>
+    <descripcionLarga>Los alienígenas aterrizaron en el planeta Tierra de una forma muy violenta, no sabían de la dureza de su suelo. Tras la caída la nave quedó inservible, por ello estos seres extraños han tenido que ideárselas para sobrevivir en este planeta. La tragedia sucedió hace cuatro años, era una noche de verano, cayeron en una fiesta rara, y allí, a base de guitarrita y cajón, se empezaron a integrar entre nuestra especie. Los alienígenas vienen de buen rollo a este plantea, y pretenden conquistarlo cantando y formando fiesta.</descripcionLarga>
+    <horario>Viernes 10 de Mayo 19:40 h. Escenario Plaza Mayor. Entradas: libre</horario>
+    <pais>España(Extramadura)</pais>
+    <imagen>los_alienigenas</imagen>
+  </artista>
+  <artista>
+    <id>5</id>
+    <nombre>Carmen Souza</nombre>
+    <descripcion>La voz de Carmen Souza es difícil de describir, porque recuerda a Nina Simone y también a Billy Holliday, a Sarah Vaughan y a Carmen McRae.</descripcion>
+    <descripcionLarga>La voz de Carmen Souza es difícil de describir, porque recuerda a Nina Simone y también a Billy Holliday, a Sarah Vaughan y a Carmen McRae. Souza también tiene algo de Joni Mitchell y un punto de Ricki Lee Jones. Y es que, si algo ha demostrado esta joven cantante nacida en Lisboa y de padres caboverdianos, es que ha asimilado y transformado por completo estas y otras influencias, y las ha potenciado con su propio vocabulario. El resultado es una voz rica en matices, serena, en ocasiones muy sensual, otras veces espontánea, desenfadada, incluso divertida.</descripcionLarga>
+    <horario>Viernes 10 de Mayo 20:00 h. Escenario San Jorge. Entradas: libre</horario>
+    <pais>Cabo Verde</pais>
+    <imagen>carmen_souza</imagen>
+  </artista>
+  <artista>
+    <id>6</id>
+    <nombre>The Dhol Foundation</nombre>
+    <descripcion>The Dhol Foundation es a la vez una escuela de percusión dhol en Londres y un grupo musical que toca música bhangra.</descripcion>
+    <descripcionLarga>The Dhol Foundation es a la vez una escuela de percusión dhol en Londres y un grupo musical que toca música bhangra. La escuela la fundó Kalsi Johnny, tras la petición de varios músicos de que fuera su maestro, a lo que siguió la publicación de un primer disco en 2001. Los tambores Dhol son un tipo de instrumento de percusión tradicional de la provincia de Punjab, en el norte de la India, de donde origina Kalsi. En Londres experimentó con ritmos de baile y música electrónica, que se mezclan con el tradicional estilo bhangra es sus álbumes.></descripcionLarga>
+    <horario>Viernes 10 de Mayo 20:00 h. Escenario San Jorge. Entradas: libre</horario>
+    <pais>Reino Unido/India</pais>
+    <imagen>the_dhol_foundation</imagen>
+  </artista>
+  <artista>
+    <id>7</id>
+    <nombre>Hanggai</nombre>
+    <descripcion>Liderados por Ilchi -de origen punk-, en Hanggai se respira música tradicional de las montañas de los campos de Mongolia.</descripcion>
+    <descripcionLarga>Liderados por Ilchi -de origen punk-, en Hanggai se respira mucha rebelión en el aire y fuego en la barriga, respaldados por guitarras eléctricas y el fiero canto armónico (throat-singing), recuerdan mucho a la salvaje poética de The Pogues. Aunque proceden del centro de Beijing, Hanggai se han mudado, metafóricamente, tanto de la ciudad como del siglo XXI en su abrazo a la música tradicional de las montañas de los campos de Mongolia. Sus reinterpretaciones puede que hagan un uso liberal de los instrumentos tradicionales, como el morin khuur (un violín con cuerdas hechas de pelo de caballo) y el tobshuur (un laud de la región de tan solo dos cuerdas), pero hacen la música suya.</descripcionLarga>
+    <horario>Viernes 10, 22:00 h. Sábado 11 de Mayo 20:00h (TALLER) Escenario San Jorge. Entradas: libre.</horario>
+    <pais>Mongolia</pais>
+    <imagen>hanggai</imagen>
+  </artista>
+  <artista>
+    <id>8</id>
+    <nombre>Bassekou Kouyate / Ngoni Ba</nombre>
+    <descripcion>Bassekou Kouyaté es un virtuoso del ngoni, un músico que ha llevado más haya las posibilidades de este instrumento precursor del banjo.</descripcion>
+    <descripcionLarga>El gran Taj Mahal lo describió como un genio, como la prueba viviente que demostraba que el blues nació en la región de Segu, en Mali. No sabemos con certeza si este estilo afroamericano proviene de esta zona, pero lo que sí ha quedado bien claro en los últimos años es que Bassekou Kouyaté es un virtuoso del ngoni, un músico que ha llevado más haya las posibilidades de este instrumento precursor del banjo. En sus manos, las cuerdas del ngoni producen desde sutiles e hipnóticas sonoridades hasta un torrente de arpegios brillantes que le han valido alabanzas a nivel internacional.</descripcionLarga>
+    <horario>Viernes 10 de Mayo 23:00 h. Escenario Plaza Mayor. Entradas: libre.</horario>
+    <pais>Mali</pais>
+    <imagen>bassekou_kouyate</imagen>
+  </artista>
+  <artista>
+    <id>9</id>
+    <nombre>La Chiva Gantiva</nombre>
+    <descripcion>Desde el año 2005, cuando estos artistas decidieron hacer música para hacer remembranza de su tierra natal, "La Chiva Gantiva" ha logrado un estilo propio, con una acertada combinación de ritmos afrocolombianos y mezcla de sonidos de funk, afrobeat y rock</descripcion>
+    <descripcionLarga>Suena paradójico, pero , en este momento, Bélgica se enorgullece de presentar a la que considera una de sus mejores bandas, La Chiva Gantiva, un protyecto musical fundado y liderado por los artistas y músicos colombianos radicados en Bruselas: Natalia Gantiva, Rafael Espinel y Felipe Deckers, a quienes después se le sumaron un francés, un holandés, un vietnamita y un belga. Desde el año 2005, cuando estos artistas decidieron hacer música para hacer remembranza de su tierra natal, "La Chiva Gantiva" ha logrado un estilo propio, con una acertada combinación de ritmos afrocolombianos y mezcla de sonidos de funk, afrobeat y rock.</descripcionLarga>
+    <horario>Viernes 10 de Mayo 00:00 h. Escenario San Jorge. Entradas: libre.</horario>
+    <pais>Bélgica/Colombia</pais>
+    <imagen>la_chiva_gantiva</imagen>
+  </artista>
+  <artista>
+    <id>10</id>
+    <nombre>Niño Josele/Septete</nombre>
+    <descripcion>El almeriense Niño Josele es descendiente de una larga dinastía de tocaores y cantaores almerienses, comenzó a despuntar a mediados de los años 1990, ganando en 1996 el Concurso de Jóvenes Intérpretes de la Bienal de Flamenco de Sevilla.</descripcion>
+    <descripcionLarga>El almeriense Niño Josele es descendiente de una larga dinastía de tocaores y cantaores almerienses, comenzó a despuntar a mediados de los años 1990, ganando en 1996 el Concurso de Jóvenes Intérpretes de la Bienal de Flamenco de Sevilla. Ha tocado en multitud de países y en compañía de músicos de todos los ámbitos, desde flamencos como Paco de Lucía, Enrique Morente, Duquende, Remedios Amaya, o el Cigala a intérpretes de talla internacional como Chick Corea, Joe Lovano, Andrés Calamaro y Lenny Kravitz.</descripcionLarga>
+    <horario>Viernes 10 de Mayo 01:00 h. Escenario Plaza Mayor. Entradas: libre.</horario>
+    <pais>España</pais>
+    <imagen>nino_josele</imagen>
+  </artista>
+  <artista>
+    <id>11</id>
+    <nombre>Mambo Diablo Big Band</nombre>
+    <descripcion>La big band del Conservatorio Oficial de Música de Cáceres fue creada en 1996 y ha realizado numerosos conciertos a lo largo de estos 17 años de existencia.</descripcion>
+    <descripcionLarga>La big band del Conservatorio Oficial de Música de Cáceres fue creada en 1996 y ha realizado numerosos conciertos a lo largo de estos 17 años de existencia. Por sus filas han pasado multitud de alumnos y profesores, contando en la actualidad con una excelente sección de vientos y rítmica. Por otra parte, la Orquesta de Jazz de la Escuela de Música de Lüneburg se caracteriza por la habilidad de sus improvisadores en las partes solistas. Si estas dos ciudades, Cáceres y Lüneburg no estaban hermanadas hasta ahora, la Mambo Diablo Big Band es la excusa perfecta para que esto suceda, al menos, en los escenarios.</descripcionLarga>
+    <horario>Sábado 11 de Mayo 18:45 h. Escenario Plaza Mayor. Entradas: libre.</horario>
+    <pais>España(Extremadura)</pais>
+    <imagen>mambo_diablo</imagen>
+  </artista>
+  <artista>
+    <id>12</id>
+    <nombre>Amesmalúa</nombre>
+    <descripcion>A mesma lúa significa la misma luna en gallego, un mismo astro que perfuma con su luz canciones que se susurran a orillas del mar de Cádiz y de Pontevedra, en la noche.</descripcion>
+    <descripcionLarga>A mesma lúa significa la misma luna en gallego, un mismo astro que perfuma con su luz canciones que se susurran a orillas del mar de Cádiz y de Pontevedra, en la noche. Sonidos de una noche de luna hechicera, entre arena blanca y olor a musgo, bajo la misma luna. Músicos de distintos orígenes proponen un viaje de encuentros, un maridaje de memoria y pasión entre el flamenco y la cación popular gallega, en una propuesta ligada a las músicas con raíces en el folclkore.</descripcionLarga>
+    <horario>Sábado 11 de Mayo 19:40 h. Escenario Plaza Mayor. Entradas: libre.</horario>
+    <pais>España(Extremadura)</pais>
+    <imagen>amesmalua</imagen>
+  </artista>
+  <artista>
+    <id>13</id>
+    <nombre>Donovan copley´s hot water</nombre>
+    <descripcion>El cantante, compositor, guitarrista y multi-instrumental sudafricano Donovan Copley tiene un talento no sólo para crear música sudafricana auténtica y enérgica, sino que tiene la habilidad para reunir a un grupo de músicos de evolución constante con orígenes muy diversos</descripcion>
+    <descripcionLarga>El cantante, compositor, guitarrista y multi-instrumental sudafricano Donovan Copley tiene un talento no sólo para crear música sudafricana auténtica y enérgica, sino que tiene la habilidad para reunir a un grupo de músicos de evolución constante con orígenes muy diversos, lo que ofrece un resultado musical siempre fresco que hace que el público se sienta inspirado y orgulloso de ser sudafricano.</descripcionLarga>
+    <horario>Sábado 11 de Mayo 21:00 h. Escenario Plaza Mayor. Entradas: libre.</horario>
+    <pais>Sudafrica</pais>
+    <imagen>donovan_copley</imagen>
+  </artista>
+  <artista>
+    <id>14</id>
+    <nombre>Julian Maeso</nombre>
+    <descripcion>Libertad creativa y un profundo espíritu musical Dreams Are Gone, el primer álbum en solitario de Julián Maeso, uno de los musicos más significativos de la escena independiente española</descripcion>
+    <descripcionLarga>Libertad creativa y un profundo espíritu musical Dreams Are Gone, el primer álbum en solitario de Julián Maeso, uno de los musicos más significativos de la escena independiente española de los últimos años tras su paso por The Blackbirds, Speaklow, The Sunday Drivers o The Sweet Vandals, aparte de sus giras acompañando a M-Clan y Quique González. Cantante, compositor y multi-instrumentista (este considerado como uno de los mejores con el órgano Hammond), el músico toledano ha publicado un álbum que está repleto de música con raíces en el blues, el rock, el soul, el folk, el country... y todas las permutaciones posibles que se pueden dar entre estos estilos y algunos otros.</descripcionLarga>
+    <horario>Sábado 11 de Mayo 22:00 h. Escenario San Jorge. Entradas: libre.</horario>
+    <pais>España</pais>
+    <imagen>julian_maeso</imagen>
+  </artista>
+  <artista>
+    <id>15</id>
+    <nombre>Nidi d´Arac</nombre>
+    <descripcion>Durante la última década, Nidi d´Arac han estado experimentando con la mezcla de la música de la región del sur de Italia, Salento, con la electrónica y los ritmos de danza contemporánea.</descripcion>
+    <descripcionLarga>Durante la última década, Nidi d´Arac han estado experimentando con la mezcla de la música de la región del sur de Italia, Salento, con la electrónica y los ritmos de danza contemporánea. El cantante principal de la banda es el músico ecléctico de Lecce, Alessandro Coppola, cuya creatividad y el amor por su tierra han producido una investigación apasionada y consciente de los contenidos provenientes de la tradición, la música, la poesía, el folklore de la cultura mediterránea, adquiridos y elaborados.</descripcionLarga>
+    <horario>Sábado 11 de Mayo 23:00 h. Escenario Plaza Mayor. Entrada libre.</horario>
+    <pais>Italia</pais>
+    <imagen>nidi_darac</imagen>
+  </artista>
+  <artista>
+    <id>15</id>
+    <nombre>The Barons of Tang</nombre>
+    <descripcion>Recorriendo escenarios por todo el mundo, este grupo variopinto de inadaptados, poco a poco , están construyendo un imperio de cinta americana y betún.</descripcion>
+    <descripcionLarga>Estos australianos serán los encargados de cerrar la edición de 2013 en en el escenario San Jorge, aunque más tarde la maliense Rokia Traore lo hará en el de la Plaza Mayor. Recorriendo escenarios por todo el mundo, este grupo variopinto de inadaptados, poco a poco , están construyendo un imperio de cinta americana y betún. Mezclando el Klezmer y la música balcánica con el punk, añadiendo una pizca de música popular y cualquier otra cosa que haya por la cocina, estos trovadores festivos preparan una receta única en sus directos.</descripcionLarga>
+    <horario>Sábado 11 de Mayo 00:00 h. Escenario San Jorge. Entrada libre.</horario>
+    <pais>Australia</pais>
+    <imagen>barons_tang</imagen>
+  </artista>
+  <artista>
+    <id>16</id>
+    <nombre>Rokia Traore</nombre>
+    <descripcion>Rokia Traore, que mezcla la tradición con la modernidad, ha encontrado nuevas maneras de explorar las raíces de la música de Malí natal.</descripcion>
+    <descripcionLarga>Rokia Traore, que mezcla la tradición con la modernidad, ha encontrado nuevas maneras de explorar las raíces de la música de Malí natal. Ella logra mantener su espíritu original al tiempo que lo adapta a las preocupaciones de hoy en día, sin que al hacerlo parezca tener prejuicios o limitaciones. Ha viajado por el mundo sin descanso para presentar su música frente a dirversos públicos. Esta cantante maliense se las arregla para llevar su carrera con maestría y talento.</descripcionLarga>
+    <horario>Sábado 11 de Mayo 01:00 h. Escenario Plaza Mayor. Entrada libre.</horario>
+    <pais>Mali</pais>
+    <imagen>rokia_traore</imagen>
+  </artista>
+</music>

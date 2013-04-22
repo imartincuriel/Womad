@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrlView" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" >
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="384dp"
+    android:background="#11773c"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imagenArtistasDescripcion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:src="@drawable/carmen_souza_grande" />
+
+    <TextView
+        android:id="@+id/nombreArtistasDescripcion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imagenArtistasDescripcion"
+        android:layout_marginLeft="10dp"
+        android:text="Silvia Comes"
+        android:textColor="#ffcc00"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+    <TextView
+        android:id="@+id/paisArtistasDescripcion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/nombreArtistasDescripcion"
+        android:layout_below="@+id/nombreArtistasDescripcion"
+        android:text="España"
+        android:textColor="#ffcc00"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+    <TextView
+        android:id="@+id/descripcionArtistasDescripcion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/horarioArtistasDescripcion"
+        android:layout_margin="10dp"
+        android:text="Nos visita desde Cataluña para mostrarnos su último trabajo en el que homenajea a Gloria Fuertes"
+        android:textColor="#ffffff"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+    <TextView
+        android:id="@+id/horarioArtistasDescripcion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/paisArtistasDescripcion"
+        android:layout_below="@+id/paisArtistasDescripcion"
+        android:text="Jueves 9 Mayo 2013 - 21:00 - Gran Teatro"
+        android:textColor="#ffffff"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/descripcionArtistasDescripcion" >
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView2"
+            android:layout_margin="5dip"
+            android:layout_toRightOf="@+id/imageView4"
+            android:src="@drawable/grooveshark" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:src="@drawable/facebook" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:src="@drawable/spotify" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="5dip"
+            android:src="@drawable/youtube" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dip"
+            android:src="@drawable/myspace" />
+    </LinearLayout>
+
+</RelativeLayout>
+</ScrollView>

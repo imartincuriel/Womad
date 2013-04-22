@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<programa>
+  <jueves>
+    <actuacion>
+        <id>1</id>
+    	<hora>21:00</hora>
+    	<lugar>Gran Teatro</lugar>
+    	<artista>Silvia Comes</artista>
+    	<pais>España</pais>
+    	<imagen>silvia_comes</imagen>
+    </actuacion>
+    <actuacion>
+        <id>2</id>
+        <hora>22:00</hora>
+        <lugar>Gran Teatro</lugar>
+        <artista>The Soaked Lamb</artista>
+        <pais>Portugal</pais>
+        <imagen>the_soaked_lamb</imagen>
+    </actuacion>
+  </jueves>
+  <viernes>
+    <actuacion>
+        <id>3</id>
+        <hora>18:45</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>Find Emma</artista>
+        <pais>España (Extremadura)</pais>
+        <imagen>find_emma</imagen>
+    </actuacion>
+    <actuacion>
+        <id>4</id>
+        <hora>19:40</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>Los Alienigenas</artista>
+        <pais>España (Extremadura)</pais>
+        <imagen>los_alienigenas</imagen>
+    </actuacion>
+    <actuacion>
+        <id>5</id>
+        <hora>20:00</hora>
+        <lugar>Plaza San Jorge</lugar>
+        <artista>Carmen Souza</artista>
+        <pais>Cabo Verde</pais>
+        <imagen>carmen_souza</imagen>
+    </actuacion>
+    <actuacion>
+        <id>6</id>
+        <hora>21:00</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>The Dhol Foundation</artista>
+        <pais>Reino Unido/India</pais>
+        <imagen>the_dhol_foundation</imagen>
+    </actuacion>
+    <actuacion>
+        <id>7</id>
+        <hora>22:00</hora>
+        <lugar>Plaza San Jorge</lugar>
+        <artista>Hanggai</artista>
+        <pais>Mongolia</pais>
+        <imagen>hanggai</imagen>
+    </actuacion>
+    <actuacion>
+        <id>8</id>
+        <hora>23:00</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>Bassekou Kouyate / Ngoni Ba</artista>
+        <pais>Mali</pais>
+        <imagen>bassekou_kouyate</imagen>
+    </actuacion>
+    <actuacion>
+        <id>9</id>
+        <hora>00:00</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>La Chiva Gantiva</artista>
+        <pais>Bélgica/Colombia</pais>
+        <imagen>la_chiva_gantiva</imagen>
+    </actuacion>
+    <actuacion>
+        <id>10</id> 
+        <hora>01:00</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>Niño Josele, Septeto</artista>
+        <pais>España</pais>
+        <imagen>nino_josele</imagen>
+    </actuacion>
+  </viernes>
+  <sabado>
+    <actuacion>
+        <id>11</id>
+        <hora>18:45</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>Mambo Diablo Big Band</artista>
+        <pais>España (Extremadura)</pais>
+        <imagen>mambo_diablo</imagen>
+    </actuacion>
+    <actuacion>
+        <id>12</id>
+        <hora>19:40</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>Amesmalua</artista>
+        <pais>España (Extremadura)</pais>
+        <imagen>amesmalua</imagen>
+    </actuacion>
+    <actuacion>
+        <id>13</id>
+        <hora>20:00</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>Hanggai(Taller)</artista>
+        <pais>Mongolia</pais>
+        <imagen>hanggai</imagen>
+    </actuacion>
+    <actuacion>
+        <id>14</id>
+        <hora>21:00</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>Donovan Copley's hot Water</artista>
+        <pais>Sudáfrica</pais>
+        <imagen>donovan_copley</imagen>
+    </actuacion>
+    <actuacion>
+        <id>15</id>
+        <hora>22:00</hora>
+        <lugar>Plaza San Jorge</lugar>
+        <artista>Julian Maeso</artista>
+        <pais>España</pais>
+        <imagen>julian_maeso</imagen>
+    </actuacion>
+    <actuacion>
+        <id>16</id>
+        <hora>23:00</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>Nini D'arac</artista>
+        <pais>Italia</pais>
+        <imagen>nidi_darac</imagen>
+    </actuacion>
+    <actuacion>
+        <id>17</id>
+        <hora>00:00</hora>
+        <lugar>Plaza San Jorge</lugar>
+        <artista>The Barons of Tang</artista>
+        <pais>Australia</pais>
+        <imagen>barons_tang</imagen>
+    </actuacion>
+    <actuacion>
+        <id>18</id>
+        <hora>01:00</hora>
+        <lugar>Plaza Mayor</lugar>
+        <artista>Rokia Traore</artista>
+        <pais>Mali</pais>
+        <imagen>rokia_traore</imagen>
+    </actuacion>
+  </sabado>
+</programa>
